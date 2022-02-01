@@ -1,0 +1,30 @@
+/*********************************Tag Selectors************************************/
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+/********************************Class Selectors***********************************/
+.top-container {
+  background-color: #e4f9f5;
+  padding: 20px;
+  border: 10px;
+}
+
+.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 20px;
+  border-color: black;
+}
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border: 10px;
+}
